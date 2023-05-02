@@ -18,7 +18,8 @@ function App() {
   return (
     <div className="container">
       <header>
-        <h1>Mi Lista de Tareas</h1>
+        <h1>Control de Tareas</h1>
+        <hr />
       </header>
       <ThemeSwitcher />
       <TodoList />
